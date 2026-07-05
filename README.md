@@ -1,5 +1,7 @@
 # E-Commerce Conversion Funnel & Drop-Off Analysis
 
+🚀 **[View the Live Interactive Dashboard Here](https://ecommerce-conversion-funnel-xy4ajysrncyatj3rqyxave.streamlit.app/)**
+
 ## Executive Summary
 Analyzed 100,000 user sessions to identify friction points in the purchasing journey. Discovered a massive drop-off at the checkout stage, specifically impacting mobile users. This friction point is resulting in an estimated ₹25 Lakhs in lost revenue opportunities per month.
 
